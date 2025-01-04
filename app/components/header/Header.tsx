@@ -19,7 +19,7 @@ export function Header() {
         <div className="i-ph:sidebar-simple-duotone text-xl" />
         <a href="/" className="text-2xl font-semibold text-accent flex items-center">
           {/* <span className="i-bolt:logo-text?mask w-[46px] inline-block" /> */}
-          <img src="https://aifirstguy.ai/wp-content/uploads/2025/01/yaidoTINY.jpg" alt="logo" className="w-[90px] inline-block dark:hidden" />
+          <img src="/yaidoTINY.jpg" alt="logo" className="w-[90px] inline-block dark:hidden" />
           {/* <img src="/logo-light-styled.png" alt="logo" className="w-[90px] inline-block dark:hidden" /> */}
           <img src="/logo-dark-styled.png" alt="logo" className="w-[90px] inline-block hidden dark:block" />
         </a>
